@@ -1,7 +1,7 @@
 Hi, I’m oasi (oh-way-see)
 
 I'm a tech consultant with Infosys, and a soft/web developer, music producer, 
-graphic artist, and gnerally curious person everywhere else.
+graphic artist, and generally curious person everywhere else.
 
 Let's vibe:
 - Discord: its.oasi#1736
