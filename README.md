@@ -7,7 +7,7 @@ Let's vibe:
 - Discord: its.oasi#1736
 - TikTok: itsoasi
 - Instagram: its.oasi
-- Twitter: itsOasi
+- Elon's bird: itsOasi
 
 <!---
 itsOasi/itsOasi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
