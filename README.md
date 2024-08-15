@@ -2,7 +2,7 @@ Hi, I’m Ontario Stallings
 
 I'm a ServiceNow Developer, a soft/web developer, music producer and artist with a thirst to learn and build.
 
-Let's vibe:
+Let's Connect:
 - Linkedin: Ontario Stallings
 - Instagram: its.oasi
 - X: itsOasi
