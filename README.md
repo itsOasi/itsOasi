@@ -1,13 +1,11 @@
-Hi, I’m oasi (oh-way-see)
+Hi, I’m Ontario Stallings
 
-I'm a tech consultant with Infosys, and a soft/web developer, music producer, 
-graphic artist, and generally curious person everywhere else.
+I'm a ServiceNow Developer, a soft/web developer, music producer and artist with a thirst to learn and build.
 
 Let's vibe:
-- Discord: its.oasi#1736
-- TikTok: itsoasi
+- Linkedin: Ontario Stallings
 - Instagram: its.oasi
-- Elon's bird: itsOasi
+- X: itsOasi
 
 <!---
 itsOasi/itsOasi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
